@@ -186,11 +186,11 @@ const Home = () => {
         <Container>
           <Heading
             sx={{
-              fontSize: '48px',
               textAlign: 'center',
+              fontSize: '48px',
               mb: '25px',
               fontFamily: 'Dosis',
-              display: ['none', 'inline-block'],
+              display: ['none', 'block'],
             }}
           >
             Assista o vídeo até o final e veja{' '}
